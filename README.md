@@ -2,7 +2,8 @@
 
 ### R E L E V A N T&nbsp;&nbsp;&nbsp;L I N K S:
 - <a href="https://lindaicing.github.io/EnvironmentalResources">Environmental Resources</a>
-- <a href="https://lindaicing.com/">Portfolio</a>
+- <a href="https://lindaicing.com">Portfolio</a>
+- <a href="https://lindaicing.github.io/Portfolio-V2//about/LindaHuang-Resume-Dark-2022.pdf">Resume</a>
 
 <!--
 **lindaicing/lindaicing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
