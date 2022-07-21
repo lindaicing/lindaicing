@@ -1,7 +1,6 @@
 ## Nice Tomate You 🍅
 
 ### R E L E V A N T&nbsp;&nbsp;&nbsp;L I N K S:
-- <a href="https://lindaicing.github.io/EnvironmentalResources" target="_blank">Environmental Resources</a>
 - <a href="https://lindaicing.com" target="_blank">Portfolio</a>
 - <a href="https://lindaicing.github.io/Portfolio-V2//about/LindaHuang-Resume-Dark-2022.pdf" target="_blank">Resume</a>
 
